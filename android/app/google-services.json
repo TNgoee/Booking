@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187709837472",
+    "project_id": "appthoitiet-23fa9",
+    "storage_bucket": "appthoitiet-23fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187709837472:android:94e4b40f97d232cf71b9c5",
+        "android_client_info": {
+          "package_name": "com.example.appthoitiet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjfYU7DFQdR4mS4AhTWyWXfERMAf_BTGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
